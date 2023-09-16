@@ -1,6 +1,6 @@
 # FastAPI CRUD API
 
-This repository contains a CRUD (Create, Read, Update and Delete) API developed with FastAPI, a modern Python framework for creating APIs quickly and easily. This API provides endpoints to manage a collection of users, allowing the basic operations of a CRUD system on them. (Work in progress)
+This repository contains a CRUD (Create, Read, Update and Delete) API developed with FastAPI, a modern Python framework for creating APIs quickly and easily. This API provides endpoints to manage a collection of users, allowing the basic operations of a CRUD system on them.
 
 ## Key features
 
